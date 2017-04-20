@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.0.4",
+    "gulp-clean-css": "github:corneyl/gulp-clean-css#use-filename",
     "onsenui": "^2.2.4"
   }
 }
